@@ -2,7 +2,7 @@
 layout: post
 title:  "Flashing a Dell PERC H200 to IT mode with an R710"
 date:   2019-01-11
-categories: perc r710 hardware
+categories:
 ---
 This guide will outline the steps to flash a PERC H200 with LSI-9211-8i firmware to IT mode to allow direct disk access on an R710. This is helpful for situations where direct disk access is preferred over a RAID configuration, for instance, for use with a FreeNAS installation.
 
