@@ -4,6 +4,9 @@ url: "https://justinschmitt.github.io" # the base hostname & protocol for your s
 show_excerpts: false
 markdown: kramdown
 theme: minima
+minima:
+  social_links:
+    rss: rss
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
