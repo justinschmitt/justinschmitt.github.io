@@ -1,6 +1,6 @@
 title: Justin's tech tips
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://justinschmitt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://justinschmitt.com" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: false
 markdown: kramdown
 theme: minima
